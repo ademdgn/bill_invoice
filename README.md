@@ -19,13 +19,20 @@ The Billinvoice Mobile Application will focus on the following features and func
 1.User Registration and Authentication:
 
 - The app will provide a user registration process to create individual accounts. Users will be able to securely log in and access their personalized bill reminder profiles.
+
 2.Bill Entry and Management: 
 
 - Users will have the ability to manually enter their bill details, including the bill name, due date, and amount. They can also edit or delete bill entries as needed.
-3.Notification and Reminders
+
+
+3.Notification and Reminders:
 - The app will send timely notifications and reminders to users as their bill due dates approach. These reminders will be customizable, allowing users to set their preferred notification preferences.
+
+
 4.Bill History and Tracking: 
 - The app will maintain a history of past bills and payments, allowing users to easily track their payment records and monitor their financial history.
+
+
 5.User Interface and User Experience:
 - The app will prioritize a user-friendly interface with intuitive navigation and visually appealing design. It will aim to provide a seamless and enjoyable user experience.
 
