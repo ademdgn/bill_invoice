@@ -63,7 +63,7 @@ The Billinvoice Mobile Application will focus on the following features and func
 **Server:** Firebase
 
   
-## Yazarlar ve Teşekkür
+##  Thanks
 
 - [@muratCanKoçyiğit]() for design and development.
 
