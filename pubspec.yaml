@@ -1,0 +1,103 @@
+name: bill_invoice
+description: Bill_Invoice_App- ADEM_DOGAN
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.0-63.1.beta <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+
+
+
+  #Firebase
+  firebase_core: ^2.12.0
+  cloud_firestore: ^4.8.0
+  firebase_auth: ^4.6.0
+  url_launcher: ^6.1.11
+  firebase_storage: ^11.2.2
+
+  image_picker: ^0.8.7+5
+
+  email_validator: ^2.1.17
+  google_fonts: ^4.0.4
+  intl: ^0.18.1
+  path: ^1.8.3
+  firebase_app_check: ^0.1.4+2
+
+  google_sign_in: ^6.1.4
+  googleapis: ^11.2.0
+  googleapis_auth: ^1.4.1
+
+
+
+  google_nav_bar: ^5.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
+
+  uses-material-design: true
+
+
+  assets:
+    - assets/page-1/images/icons8-avatar-64-1.png
+    - assets/page-1/images/icons8-hand-48-1.png
+    - assets/page-1/images/icons8-arrow-left-30-1.png
+    - assets/page-1/images/icons8-calendar-64-1.png
+    - assets/page-1/images/icons8-arrow-left-30-1-NwF.png
+    - assets/page-1/images/icons8-hand-48-1-6E9.png
+    - assets/page-1/images/icons8-arrow-left-30-1-U8D.png
+    - assets/page-1/images/checkboxselected.png
+    - assets/page-1/images/icons8-arrow-left-30-1-3r5.png
+    - assets/page-1/images/icons8-celebration-48-1.png
+    - assets/page-1/images/icons8-calendar-64-1-1d7.png
+    - assets/page-1/images/checkboxselected-nsf.png
+    - assets/page-1/images/logo.png
+    - assets/page-1/images/icons8-search-50-1-1.png
+    - assets/page-1/images/polygon-5.png
+    - assets/page-1/images/logo-cMT.png
+    - assets/page-1/images/icons8-home-48-1-1.png
+    - assets/page-1/images/checkboxselected-G7X.png
+    - assets/page-1/images/logo-BcR.png
+    - assets/page-1/images/polygon-3.png
+    - assets/page-1/images/polygon-1.png
+    - assets/page-1/images/logo-fsB.png
+    - assets/page-1/images/d-casual-life-shopping-credit-card-1-1.png
+    - assets/page-1/images/icons8-calendar-64-1-TSV.png
+    - assets/page-1/images/polygon-4.png
+    - assets/page-1/images/icons8-nothing-found-48-1.png
+    - assets/page-1/images/icons8-hand-48-1-tnZ.png
+    - assets/page-1/images/logo-pw7.png
+    - assets/page-1/images/icons8-home-48-1-1-wAV.png
+    - assets/page-1/images/icons8-avatar-64-1-PpH.png
+    - assets/page-1/images/icons8-edit-24-1.png
+    - assets/page-1/images/icons8-avatar-64-1-ue5.png
+    - assets/page-1/images/icons8-home-48-1-1-gAy.png
+    - assets/page-1/images/icons8-home-48-1-1-Qah.png
+    - assets/page-1/images/icons8-hand-48-1-8G5.png
+    - assets/page-1/images/icons8-avatar-64-2.png
+    - assets/page-1/images/icons8-avatar-64-1-Zdf.png
+    - assets/page-1/images/polygon-2.png
+    - assets/page-1/images/icons8-calendar-64-1-LpV.png
+    - assets/page-1/images/icons8-edit-24-2.png
+    - assets/invoice.png
+    - assets/985_google_g_icon.jpg
+    - assets/profile-icon-design-free-vector.jpg
+    - assets/png-transparent-google-logo-g-suite-google-guava-google-plus-company-text-logo.png
+    - assets/page-1/images/start.png
+    - assets/page-1/ellipse-9.jpg
