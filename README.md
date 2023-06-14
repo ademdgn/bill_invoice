@@ -65,6 +65,6 @@ The Billinvoice Mobile Application will focus on the following features and func
   
 ## Yazarlar ve Teşekkür
 
-- [@muratCanKoçyiğit](https://www.github.com/octokatherine) for design and development.
+- [@muratCanKoçyiğit]() for design and development.
 
   
