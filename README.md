@@ -41,7 +41,7 @@ The Billinvoice Mobile Application will focus on the following features and func
   
 ## App Screen
 
-| Start Screen      | Register Screen     |
+| Start Screen      | Home Screen     |
 | ------------- | ------------ |
 | ![Resim 1](https://cdn.discordapp.com/attachments/1118653926594592931/1118655549593108612/Screenshot_2023-06-15_003544.png) | ![Home Screen](https://cdn.discordapp.com/attachments/1118653926594592931/1118659590511411351/Screenshot_2023-06-15_003311.png)  |
 
